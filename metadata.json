@@ -1,0 +1,6 @@
+{
+  "name": "Theo Dõi Bàn Giao Hồ Sơ",
+  "description": "Màn hình tổng quan với Roadmap linh động cho quy trình giao nhận và bàn giao hồ sơ pháp lý bảo mật cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
